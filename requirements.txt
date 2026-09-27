@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+pandas
+numpy
+matplotlib
+wordcloud
+gtts
+reportlab
+pypdf
+python-docx
